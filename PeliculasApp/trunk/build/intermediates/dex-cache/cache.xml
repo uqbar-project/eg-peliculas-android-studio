@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/fernando/AndroidStudioProjects/PeliculasApp/peliculasApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/fernando/AndroidStudioProjects/PeliculasApp/peliculasApp/build/intermediates/pre-dexed/debug/classes-af252daa32e8a21e3a9dbb1c4b493133a23aa05a.jar" />
+    </item>
+    <item
+        jar="/home/fernando/AndroidStudioProjects/PeliculasApp/peliculasApp/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/home/fernando/AndroidStudioProjects/PeliculasApp/peliculasApp/build/intermediates/pre-dexed/debug/classes-81126e2042de684727b67460a559642399b59050.jar" />
+    </item>
+    <item
+        jar="/home/fernando/AndroidStudioProjects/PeliculasApp/peliculasApp/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/fernando/AndroidStudioProjects/PeliculasApp/peliculasApp/build/intermediates/pre-dexed/debug/classes-8dde192ddd112eb69305f90fe04ce11328e99ec5.jar" />
+    </item>
+    <item
+        jar="/home/fernando/AndroidStudioProjects/PeliculasApp/peliculasApp/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/fernando/AndroidStudioProjects/PeliculasApp/peliculasApp/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-7864891fedfb6ed6163bf3c141287d34c0d62110.jar" />
+    </item>
+    <item
+        jar="/home/fernando/AndroidStudioProjects/PeliculasApp/peliculasApp/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/home/fernando/AndroidStudioProjects/PeliculasApp/peliculasApp/build/intermediates/pre-dexed/debug/classes-ec3a8b9fc44253b119acf2d70403f0f42686b14b.jar" />
+    </item>
+    <item
+        jar="/home/fernando/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/fernando/AndroidStudioProjects/PeliculasApp/peliculasApp/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-554e7834cce94daf5606d657a3a4199531b8ab31.jar" />
+    </item>
+
+</items>

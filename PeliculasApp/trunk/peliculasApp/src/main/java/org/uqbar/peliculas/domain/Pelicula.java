@@ -1,13 +1,6 @@
 package org.uqbar.peliculas.domain;
 
-import android.graphics.drawable.Drawable;
-import android.util.Log;
-
-import org.uqbar.peliculasapp.R;
-
 import java.io.Serializable;
-import java.util.HashMap;
-import java.util.Map;
 
 /**
  * Created by fernando on 26/10/15.

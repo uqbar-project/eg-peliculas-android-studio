@@ -25,6 +25,8 @@ public class PeliculaAdapter extends ArrayAdapter<Pelicula> {
 
     @Override
     public long getItemId(int position) {
+        Pelicula pelicula = getItem(position);
+        if (pelicula == null) return -1;
         return getItem(position).getId();
     }
 

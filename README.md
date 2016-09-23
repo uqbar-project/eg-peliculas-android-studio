@@ -18,4 +18,9 @@ Este proyecto está generado para
 * Redefinición del layout de una ListView y del detalle de una película
 * Binding manual de propiedades entre objetos de dominio (Película / Genero) y objetos visuales
 
+## Branches
+
+* **master**: la versión simple, el repositorio es un Singleton que devuelve todos los libros
+* **rest**: la versión REST la información de las películas se obtiene de un servicio REST que devuelve un JSON de películas. Hay dos versiones posibles: [XTRest](https://github.com/uqbar-project/eg-videoclub-xtrest) o [Grails](https://github.com/uqbar-project/eg-videoclub-ui-grails)
+
 

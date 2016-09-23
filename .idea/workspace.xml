@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1c98168-9ae9-40bf-8f8f-3b8b2169c9f4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/peliculasApp/peliculasApp.iml" afterPath="$PROJECT_DIR$/peliculasApp/peliculasApp.iml" />
-    </list>
+    <list default="true" id="d1c98168-9ae9-40bf-8f8f-3b8b2169c9f4" name="Default" comment="" />
     <ignored path="eg-peliculas-android-studio.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
